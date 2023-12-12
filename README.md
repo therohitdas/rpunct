@@ -1,7 +1,7 @@
 > **Note**
 > I have forked this repository to loosen the dependencies and remove the requirement for CUDA. The previous repository appears to be abandoned. You can install this version with:
 > ```shell
-> pip install git+https://github.com/samwaterbury/rpunct.git
+> pip install git+https://github.com/therohitdas/rpunct.git
 > ```
 >
 > I do not promise to keep this fork forever — if you want to use it, please fork it yourself!
